@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/project-educational-purple.svg?style=flat-square">
-  <img src="https://img.shields.io/badge/stability-available-green.svg?style=flat-square">
+  <img src="https://img.shields.io/badge/stability-functional-green.svg?style=flat-square">
   <img src="https://img.shields.io/badge/made_with-java-yellow.svg?style=flat-square">
 </p>
 
